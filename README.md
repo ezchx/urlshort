@@ -8,4 +8,4 @@ If a user passes an invalid URL that doesn't follow the valid http://www.example
 
 When the user visits the shortened URL, they are redirected to the original link.
 
-The code is PHP and MySQL.
+PHP and MySQL.
